@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Photo Editor",
+  "description": "A professional-grade AI-powered photo editing application featuring smart enhancements, manual adjustments, filters, and creative tools with a sleek dark aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
